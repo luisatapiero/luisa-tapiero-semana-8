@@ -47,7 +47,6 @@ class firstComponent extends HTMLElement {
         </div> 
             `;
         })
-        
     }
 
     printData () {
